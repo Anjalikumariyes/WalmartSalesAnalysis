@@ -171,9 +171,10 @@ CREATE TABLE IF NOT EXISTS sales(
 ```
 
 
-#Cnclusion
+# Conclusion
 
-Objective: Analyzed sales data from three Walmart branches (Mandalay, Yangon, Naypyitaw) to uncover insights on top-performing branches, product lines, and customer behavior. Aimed to optimize sales strategies and improve branch performance.
+## Objective:
+Analyzed sales data from three Walmart branches (Mandalay, Yangon, Naypyitaw) to uncover insights on top-performing branches, product lines, and customer behavior. Aimed to optimize sales strategies and improve branch performance.
 
 ## Key Insights & Achievements:
 
