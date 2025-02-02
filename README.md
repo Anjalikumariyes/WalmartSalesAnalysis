@@ -169,3 +169,20 @@ CREATE TABLE IF NOT EXISTS sales(
     rating FLOAT(2, 1)
 );
 ```
+
+
+#Cnclusion
+
+Objective: Analyzed sales data from three Walmart branches (Mandalay, Yangon, Naypyitaw) to uncover insights on top-performing branches, product lines, and customer behavior. Aimed to optimize sales strategies and improve branch performance.
+
+## Key Insights & Achievements:
+
+- Product & Sales Analysis: Identified top-selling product lines and branches, leading to data-driven recommendations for product and pricing optimization.
+- Customer Behavior: Segmented customers based on purchasing behavior and determined which customer types brought in the highest revenue, enabling targeted marketing strategies.
+- Time-Based Sales Trends: Analyzed sales by time of day, day of the week, and month, revealing key insights into when to focus promotions for maximum impact.
+- Revenue & Profit Calculation: Used SQL to calculate COGS, VAT, and gross margin percentages, optimizing pricing and cost management strategies.
+- SQL Tasks:
+- Performed data wrangling and cleaning to ensure accuracy.
+- Created new features like time_of_day, day_name, and month_name to enhance analysis.
+- Developed complex queries to track performance across branches, product lines, and customer segments.
+- Business Impact: Delivered actionable insights that could inform sales strategy, product focus, and marketing efforts to drive revenue growth.
