@@ -184,6 +184,6 @@ Analyzed sales data from three Walmart branches (Mandalay, Yangon, Naypyitaw) to
 - Revenue & Profit Calculation: Used SQL to calculate COGS, VAT, and gross margin percentages, optimizing pricing and cost management strategies.
 - SQL Tasks:
 - Performed data wrangling and cleaning to ensure accuracy.
-- Created new features like time_of_day, day_name, and month_name to enhance analysis.
+- Created new features like `time_of_day1`, `day_name`, and `month_name` to enhance analysis.
 - Developed complex queries to track performance across branches, product lines, and customer segments.
 - Business Impact: Delivered actionable insights that could inform sales strategy, product focus, and marketing efforts to drive revenue growth.
